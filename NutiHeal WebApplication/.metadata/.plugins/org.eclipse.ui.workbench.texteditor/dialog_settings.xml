@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="updateQuotaDisplay"/>
+			<item value="displayRecommendations"/>
+			<item value="generateAIRecommendations"/>
+			<item value="loadUserData"/>
+			<item value="nsights from Gemini"/>
+			<item value="Gemini 2.5 Pro A"/>
+			<item value="gemini"/>
+			<item value="gemini-pro"/>
+			<item value="api"/>
+			<item value="/api"/>
+			<item value="/api/"/>
+		</list>
+		<list key="replacehistory">
+			<item value="/api/"/>
+		</list>
+	</section>
+</section>
